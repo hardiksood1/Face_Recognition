@@ -4,7 +4,6 @@
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-green)](https://github.com/ultralytics/ultralytics)
 [![Face Recognition](https://img.shields.io/badge/Face_Recognition-Dlib-orange)](https://github.com/ageitgey/face_recognition)
 [![Gradio](https://img.shields.io/badge/Gradio-Web%20App-yellow)](https://gradio.app/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
 A Python-based **video processing application** that detects faces using **YOLOv8**, recognizes known faces using [`face_recognition`](https://github.com/ageitgey/face_recognition), and provides a **GPU-accelerated Gradio interface** for uploading and processing videos.
 
@@ -160,8 +159,6 @@ Edit
    ├── processing.png
    
    └── output_video.png
-🔹 License
-This project is licensed under the MIT License.
 
 🔹 Acknowledgements
 Ultralytics YOLOv8
@@ -169,3 +166,4 @@ Ultralytics YOLOv8
 face_recognition
 
 Gradio
+
